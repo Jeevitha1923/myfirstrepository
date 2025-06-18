@@ -1,0 +1,3 @@
+AI is the backbone of innovation in modern computing, unlocking value for individuals and businesses.
+ For example, optical character recognition (OCR) uses AI to extract text and data from images and documents,
+ turns unstructured content into business-ready structured data, and unlocks valuable insights.
